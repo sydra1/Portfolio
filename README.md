@@ -3,7 +3,7 @@
 A responsive personal portfolio website built from scratch using pure HTML, CSS, and JavaScript. No frameworks, no libraries.
 
 ## Live Demo
-🔗 https://sidrazulfiqar.github.io
+🔗 (https://sidrazulfiqar1.netlify.app/)
 
 ## Sections
 - **Hero** — Headline and call-to-action
